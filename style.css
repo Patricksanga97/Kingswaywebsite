@@ -208,6 +208,7 @@ a{
   color: white;
 }
 .grid-container{
+    position: relative;
     display: grid;
     gap: 20px;
     max-width: 1000px;
@@ -220,11 +221,7 @@ a{
     width: 50%;
   }
 }
-@media (max-width: 768){
-  .container{
-    max-width: 720px;
-  }
-}
+
 
 
 
