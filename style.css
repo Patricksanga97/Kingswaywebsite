@@ -211,6 +211,7 @@ a{
     position: relative;
     display: grid;
     gap: 20px;
+    padding: 20px;
     max-width: 1000px;
     justify-items: center;
     align-items: center;
