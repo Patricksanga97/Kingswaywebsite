@@ -207,7 +207,14 @@ a{
 .infocont:hover p{
   color: white;
 }
-
+.grid-container{
+    display: grid;
+    gap: 20px;
+    max-width: 1000px;
+    padding: 20px;
+    justify-items: center;
+    align-items: center;
+}
 @media (max-width: 768px) {
   .col-sm-6 {
     width: 50%;
