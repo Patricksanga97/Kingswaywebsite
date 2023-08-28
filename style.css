@@ -215,7 +215,7 @@ a{
     justify-items: center;
     align-items: center;
 }
-@media (max-width: 768px) {
+@media (max-width: 900px) {
   .grid-container {
     max-width: 720px;
     padding: 30px;
