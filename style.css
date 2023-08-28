@@ -216,7 +216,7 @@ a{
     align-items: center;
 }
 @media (max-width: 768px) {
-  .col-sm-6 {
+  .grid-container {
     width: 50%;
   }
 }
