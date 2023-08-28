@@ -217,7 +217,8 @@ a{
 }
 @media (max-width: 768px) {
   .grid-container {
-    max-width: 760px;
+    max-width: 720px;
+    padding: 30px;
   }
 }
 
