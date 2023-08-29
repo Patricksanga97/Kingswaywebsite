@@ -221,6 +221,10 @@ a{
     max-width: 720px;
     padding: 30px;
   }
+  iframe{
+    max-width: 720px;
+    padding: 30px;
+  }
 }
 
 
