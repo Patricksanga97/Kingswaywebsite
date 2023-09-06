@@ -46,7 +46,7 @@ ul{
     position:relative;
     width: 100%;
     height: 100;
-    margin: 0;
+    margin-top: 82px;
 }
 .nav-menu{
  display: flex;
