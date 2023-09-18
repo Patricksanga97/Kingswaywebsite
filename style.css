@@ -220,7 +220,7 @@ a{
     top: 25%;
     padding: 48px;
     width: 80%;
-    margin-left: auto;
+    margin-left: 15%;
     margin-right: auto;
   }
   
@@ -356,11 +356,11 @@ a{
 }
 @media(max-width:500px){
   .img-slide .slide .info h2{
-    font-size: 1.8em;
+    font-size: 30px;
     line-height: 40px;
   }
   .img-slide .slide .info p{
-    font-size: 0.9em;
+    font-size: 15px;
   }
 }
 
