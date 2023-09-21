@@ -89,7 +89,7 @@ ul{
   padding: 80px;
   width: 100%;
   margin-left: 25%;
-  margin-right: auto;
+  margin-right: 12px;
 }
 .img-slide .slide .info h2{
   color: white;
@@ -97,6 +97,7 @@ ul{
   text-transform: uppercase;
   font-weight: 600;
   letter-spacing: 2px;
+  width: 65%;
 
 }
 .img-slide .slide .info p{
@@ -116,7 +117,7 @@ ul{
   z-index: 3;
   font-size: 30px;
   color: white;
-  background-color: #2c2b2a;
+  /* background-color: #2c2b2a; */
   padding: 10px;
   cursor: pointer;
 }
@@ -356,11 +357,12 @@ a{
 }
 @media(max-width:500px){
   .img-slide .slide .info h2{
-    font-size: 30px;
-    line-height: 40px;
+    font-size: 18px;
+    /* line-height: 40px; */
   }
   .img-slide .slide .info p{
     font-size: 15px;
+    text-align: center;
   }
 }
 
